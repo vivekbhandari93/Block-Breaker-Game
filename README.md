@@ -1,2 +1,3 @@
 # Block-Breaker-Game
-Developed in unity
+
+Demo developed in unity game engine.
